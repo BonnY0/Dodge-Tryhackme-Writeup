@@ -26,6 +26,7 @@ And nmap also found subdomains of dodge.thm domain, we need to add them all to /
 
 
 Now we visit each site including both 80 and 443 (http/https) ports
+
 Most of them will result in 403 error
 
 ![error403](https://github.com/BonnY0/Dodge---writeup/assets/65781644/e6cbfe8a-585e-42df-9e31-453521ecf20f)
