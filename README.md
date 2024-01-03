@@ -30,6 +30,7 @@ Most of them will result in 403 error
 
 
 Visiting https://dev.dodge.thm/ and https://netops-dev.dodge.thm/ we get 2 new responses
+
 First one is phpinfo() where we find working directory /var/www/html_www/ , we need to keep this in mind so if there is some sort of  
 vuln on other sites we know where to look at as a working directory
 
@@ -43,7 +44,8 @@ Blank page but checking out source code we find firewall.js script, opening it w
 
 
 Visitng https://netops-dev.dodge.thm/firewall10110.php
-![firewallfoothold1](https://github.com/BonnY0/Dodge---writeup/assets/65781644/11b73f47-e91d-466c-a4e1-522d567580d8)
+![firewallfoothold1](https://github.com/BonnY0/Dodge---writeup/assets/65781644/b9b8afe9-ced6-4d79-927f-e93439ba70c3)
+
 
 
 ////////////
